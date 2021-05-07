@@ -3920,3 +3920,9 @@ input, select, textarea {
 			margin-top: 25px;
 			font-size: 25px;
 		}
+
+		.section img{
+			width: 80%;
+			object-fit: cover;
+			object-position: center center;
+		}
