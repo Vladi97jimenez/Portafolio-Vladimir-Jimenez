@@ -3907,3 +3907,16 @@ input, select, textarea {
 			}
 
 		}
+
+		.section{
+			text-align: center;
+			border: 1px solid #fff !important;
+			width: 100% !important;
+			padding: 10px !important;
+			margin: 10px !important;
+		}
+
+		.section h3{
+			margin-top: 25px;
+			font-size: 25px;
+		}
